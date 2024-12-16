@@ -2,6 +2,9 @@
 
 Sistema de distribuição de atendimentos para a central de relacionamento da FlowPay. O sistema gerencia a distribuição automática de solicitações de clientes para times especializados de atendimento.
 
+## Iniciar a Aplicação:
+Abra a pasta dos arquivos e clique em "Iniciar Aplicação.bat".
+
 ## 🚀 Funcionalidades
 
 ### Backend
