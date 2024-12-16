@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Personalizações adicionais */
+body {
+  @apply antialiased;
+}
+
+/* Estilização de formulários */
+select, textarea, input {
+  @apply transition-all duration-200;
+} 
